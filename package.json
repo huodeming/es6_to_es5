@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "babel src -d dist",
-    "watch": "babel src -d dist -w"
+    "build": "babel js/src -d js/dist",
+    "watch": "babel js/src -d js/dist -w"
   },
   "author": "",
   "license": "ISC",
